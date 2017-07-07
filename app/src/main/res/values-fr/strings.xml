@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">USB Mountr</string>
     <string name="licenses">Licences</string>
-    <string name="licenses_upstream">Open source</string>
+    <string name="licenses_upstream">Source</string>
     <string name="file_picker_nofile">Aucun</string>
 
     <!-- Visible in the activity-->
